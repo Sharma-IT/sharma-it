@@ -21,16 +21,16 @@ const aboutMe = {
   `,
   
   about: `👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to building a
-  career Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation,
-  scripting,  and cybersecurity. If you'd like to learn more about my professional impact within the Software Quality
-  domain specifically please check out my LinkedIn.
+  career in Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation,
+  scripting, and cybersecurity. If you'd like to learn more about my professional impact within the Software Quality
+  domain specifically, please check out my LinkedIn.
   
   `,
   
   work: `🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve the efficiency
   of your workflow. I leverage these skills to streamline repetitive tasks, both complex and mundane. Whether it's a 
-  CLI script to fill payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, I will
-  automate it. While my automation work tackles daily needs and other requirements, I polish scripts and code before
+  CLI script to fill payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, it will
+  be automatec. While my automation work tackles daily needs and other requirements, I polish scripts and code before
   sharing on GitHub by improving capabilities, documentation, and structure. That way you get more to work with and 
   can better contribute to my projects.
 
@@ -39,7 +39,7 @@ const aboutMe = {
   interests: `💻 In addition to my expertise in Software Quality and Automation, like I mentioned before I also have
   a passion for Cybersecurity. I majored in Cybersecurity for my Computer Science degree and am an avid InfoSec and 
   OpSec enthusiast. I am committed to continuously expanding my knowledge through ongoing study and plan to pursue 
-  relevant certifications.  I have developed multiple open-source Cybersecuirty-related projects such as a password 
+  relevant certifications.  I have developed multiple open-source Cybersecurity-related projects such as a password 
   generator, password strength checker and a comprehensive all-in-one script that employs multiple types of 
   penetration tests onto a target website. I'm excited to work on more projects and build more tools such as a 
   MAC address changer, network scanner, ARP/DNS spoofer, packet sniffer and more.
@@ -48,8 +48,8 @@ const aboutMe = {
   conclusion: `🤝 If you've made it this far, hopefully this has given you a proper (and not too long) overview of
   my skills and interests. Please feel free to explore my GitHub repositories and profile to learn more about my 
   projects.  I welcome any collaborators who want to get involved. Don't hesitate to reach out if you have any 
-  questions or just want to  connect and exchange ideas. Let's build solutions that allow us to breathe a little
-  more and get work done.
+  questions or just want to connect and exchange ideas. Let's build solutions that allow us to get work done faster
+  and breathe a little more. 
     
   `,
   
@@ -74,6 +74,8 @@ console.log(aboutMe.work);
 console.log(aboutMe.interests);
 console.log(aboutMe.conclusion);
 console.log(aboutMe.contact);
+
+// If you can understand the code below, you're a legend!
 
 const life_status = succeed ? party : tryAgain;
 
