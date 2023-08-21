@@ -20,19 +20,19 @@ const aboutMe = {
   
   `,
   
-  about: `👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to building a career 
-  Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation, scripting, 
-  and cybersecurity. If you'd like to learn more about my professional impact within the Software Quality domain 
-  specifically please check out my LinkedIn.
+  about: `👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to building a
+  career Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation,
+  scripting,  and cybersecurity. If you'd like to learn more about my professional impact within the Software Quality
+  domain specifically please check out my LinkedIn.
   
   `,
   
-  work: `🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve the efficiency of your
-  workflow. I leverage these skills to streamline repetitive tasks, both complex and mundane. Whether it's a CLI script to 
-  fill payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, I will automate it. 
-  While my automation work tackles daily needs and other requirements, I polish scripts and code before sharing on GitHub by
-  improving capabilities, documentation, and structure. That way you get more to work with and can better contribute 
-  to my projects.
+  work: `🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve the efficiency
+  of your workflow. I leverage these skills to streamline repetitive tasks, both complex and mundane. Whether it's a 
+  CLI script to fill payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, I will
+  automate it. While my automation work tackles daily needs and other requirements, I polish scripts and code before
+  sharing on GitHub by improving capabilities, documentation, and structure. That way you get more to work with and 
+  can better contribute to my projects.
 
   `,
   
