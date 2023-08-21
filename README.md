@@ -1,11 +1,86 @@
-👋🏽 Hi there! My name is Shubham (pronounced Shoob-hum) and thanks for visiting my GitHub page. 
+```javascript
+const shubhamSharma = {
+    name: 'Shubham Sharma',
+    pronoun: 'Him', 
+    status: "Senior Quality Engineer",
+    technologies: {
+        programmingLanguages: ["Python", "Shell", "JavaScript" , "PHP", "HTML"],
+        operatingSystems: ["Windows", "macOS", "Kali Linux", "Arch Linux", "QubesOS"],
+        testingTools: ["Cypress", "Playwright", "Puppeteer"]
+    },
+    editors: ["VS Code", "Vim", "PyCharm", "Nano"],
+    learning: ["Ethical Hacking", "Generative AI"],
+    contact: "shubhamsharma.emaills@gmail.com",
+    linkedIn: "https://www.linkedin.com/in/sharma-it"
+  };
+  
+const aboutMe = {
 
-👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to building a career in Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation, scripting, and cybersecurity. If you'd like to learn more about my professional impact within the Software Quality domain specifically, please check out [my LinkedIn.](https://www.linkedin.com/in/sharma-it/) 
+  greeting: `👋🏽 Hi there! My name is Shubham (pronounced Shoob-hum) and thanks for visiting my GitHub page.
+  
+  `,
+  
+  about: `👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to building a career in
+  Software Quality and Testing. Outside of what I focus on in my career, I also have passions for automation, scripting, and
+  cybersecurity. If you'd like to learn more about my professional impact within the Software Quality domain specifically
+  please check out my LinkedIn.
+  
+  `,
+  
+  work: `🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve the efficiency of your
+  workflow. I leverage these skills to streamline repetitive tasks, both complex and mundane. Whether it's a CLI script to fill
+  payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, I will automate it. 
+  While my automation work tackles daily needs and other requirements, I polish scripts and code before sharing on GitHub by
+  improving capabilities, documentation, and structure. That way you get more to work with and can better contribute to my projects.
+    
+  `,
+  
+  interests: `💻 In addition to my expertise in Software Quality and Automation, like I mentioned before I also have a passion for
+  Cybersecurity. I majored in Cybersecurity for my Computer Science degree and am an avid InfoSec and OpSec enthusiast. 
+  I am committed to continuously expanding my knowledge through ongoing study and plan to pursue relevant certifications. 
+  I have developed multiple open-source Cybersecuirty-related projects such as a password generator, password strength checker and 
+  a comprehensive all-in-one script that employs multiple types of penetration tests onto a target website. I'm excited to work on
+  more projects and build more tools such as a MAC address changer, network scanner, ARP/DNS spoofer, packet sniffer and more.
+  
+  `,
+  
+  conclusion: `🤝 If you've made it this far, hopefully this has given you a proper (and not too long) overview of my skills and
+  interests. Please feel free to explore my GitHub repositories and profile to learn more about my projects. 
+  I welcome any collaborators who want to get involved. Don't hesitate to reach out if you have any questions or just want to 
+  connect and exchange ideas. Let's build solutions that allow us to breathe a little more and get work done.
+    
+  `,
+  
+  contact: `📫 You can reach me through email or LinkedIn.`
 
-🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve the efficiency of your workflow. I leverage these skills to streamline repetitive tasks, both complex and mundane. Whether it's a CLI script to fill payroll hours or a comprehensive Cypress framework to test an app used by 100,000+ users, I will automate it. While my automation work tackles daily needs and other requirements, I polish scripts and code before sharing on GitHub by improving capabilities, documentation, and structure. So that you all get more to work with and can better contribute to my projects. 
+};
 
-💻 In addition to my expertise in Software Quality and Automation, like I mentioned before I also have a passion for Cybersecurity. I majored in Cyber Security for my Computer Science degree and am an avid InfoSec and OpSec enthusiast. I am committed to continuously expanding my cybersecurity knowledge through ongoing study and plan to pursue relevant certifications. I have developed multiple open-source cybersecuirty-related projects such as a password generator, password strength checker and a comprehensive all-in-one script that employs multiple types of penetration tests onto a target website. I'm excited to work on more projects and build more tools such as a MAC address changer, network scanner, ARP/DNS spoofer, packet sniffer and of course more.
+console.log('Name:' + shubhamSharma.name);
+console.log('Pronoun:' + shubhamSharma.pronoun); 
+console.log('Status: ' + shubhamSharma.status);
+console.log('Programming Languages: ' + shubhamSharma.technologies.programmingLanguages);
+console.log('Operating Systems: ' + shubhamSharma.technologies.operatingSystems);
+console.log('Testing Tools: ' + shubhamSharma.technologies.testingTools);  
+console.log('Editors: ' + shubhamSharma.editors);
+console.log('Learning: ' + shubhamSharma.learning);
+console.log('Contact: ' + shubhamSharma.contact);
+  
+console.log('LinkedIn: ' + shubhamSharma.linkedIn);
+console.log(aboutMe.greeting);
+console.log(aboutMe.about); 
+console.log(aboutMe.work);
+console.log(aboutMe.interests);
+console.log(aboutMe.conclusion);
+console.log(aboutMe.contact);
 
-🫱🏽‍🫲🏻 If you've made it this far, hopefully this has given you a proper (and not too long) overview of my skills and interests. Please feel free to explore my GitHub repositories and profile to learn more about my projects. I welcome any collaborators who want to get involved. Don't hesitate to reach out if you have any questions or just want to connect and exchange ideas. Let's build solutions that allow us to breathe a little more and get work done.
+const life_status = succeed ? party : tryAgain;
 
-📫 You can reach me through [LinkedIn.](https://www.linkedin.com/in/sharma-it/) 
+function party() {
+  console.log("Trying again");
+} 
+
+function tryAgain() {
+  console.log("Let's party!");
+}
+
+life_status();
