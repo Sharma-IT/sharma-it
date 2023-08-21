@@ -66,8 +66,8 @@ console.log('Testing Tools: ' + shubhamSharma.technologies.testingTools);
 console.log('Editors: ' + shubhamSharma.editors);
 console.log('Learning: ' + shubhamSharma.learning);
 console.log('Contact: ' + shubhamSharma.contact);
-  
 console.log('LinkedIn: ' + shubhamSharma.linkedIn);
+
 console.log(aboutMe.greeting);
 console.log(aboutMe.about); 
 console.log(aboutMe.work);
