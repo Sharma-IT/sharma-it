@@ -4,6 +4,7 @@ const shubhamSharma = {
     pronoun: 'Him', 
     status: "Senior Software Quality Engineer",
     technologies: {
+        // Yes, I have used all of the below (at one point in time)
         programmingLanguages: ["Python", "PowerShell", "Bash", "JS" , "PHP", "HTML", "CSS" "SQL", "R"],
         operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora", "BOSS Linux"],
         testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "Gauge", "Robot Framework", "Taiko"],
