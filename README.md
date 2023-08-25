@@ -2,7 +2,7 @@
 const shubhamSharma = {
     name: 'Shubham Sharma',
     pronoun: 'Him', 
-    status: "Senior Quality Engineer",
+    status: "Senior Software Quality Engineer",
     technologies: {
         programmingLanguages: ["Python", "Shell", "JavaScript" , "PHP", "HTML"],
         operatingSystems: ["Windows", "macOS", "Kali Linux", "Arch Linux", "QubesOS"],
