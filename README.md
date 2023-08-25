@@ -4,12 +4,14 @@ const shubhamSharma = {
     pronoun: 'Him', 
     status: "Senior Software Quality Engineer",
     technologies: {
-        programmingLanguages: ["Python", "Shell", "JavaScript" , "PHP", "HTML"],
-        operatingSystems: ["Windows", "macOS", "Kali Linux", "Arch Linux", "QubesOS"],
-        testingTools: ["Cypress", "Playwright", "Puppeteer"]
+        programmingLanguages: ["Python", "PowerShell", "Bash", JavaScript" , "PHP", "HTML", "CSS" "SQL", "R"],
+        operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora", "BOSS Linux"],
+        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "Gauge", "Robot Framework", "Taiko"],
+        editors: ["VS Code", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets", "Notepad++", "Eclipse"],
+        devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
     },
-    editors: ["VS Code", "Vim", "PyCharm", "Nano"],
-    learning: ["Ethical Hacking", "Generative AI"],
+    learning: ["Penetration Testing", "DevSecOps", "IoT Security", "Generative AI"],
+    hobbies: ["Chess", "Badminton", "Boxing", "Yoga", "Audiophilia", "Arthouse Film', "Indian Studies"],
     contact: "shubhamsharma.emaills@gmail.com",
     linkedIn: "https://www.linkedin.com/in/sharma-it"
   };
