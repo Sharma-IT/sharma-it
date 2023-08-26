@@ -12,7 +12,7 @@ const shubhamSharma = {
     },
     learning: ["Penetration Testing", "DevSecOps", "IoT Security", "Generative AI"],
     hobbies: ["Chess", "Badminton", "Boxing", "Yoga", "Meditation", "Audiophilia", "Indian Studies"],
-    interest: ["Arthouse Cinema", "Audio Antiquing", "Vedic Metaphysics", "History", "JDM Cars", "Nutrition"]
+    interest: ["Arthouse Cinema", "Audio Antiquing", "Vedic Metaphysics", "History", "JDM Cars", "Nutrition"],
     contact: "shubhamsharma.emaills@gmail.com",
     linkedIn: "https://www.linkedin.com/in/sharma-it"
   };
