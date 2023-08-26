@@ -12,7 +12,8 @@ const shubhamSharma = {
         devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
     },
     learning: ["Penetration Testing", "DevSecOps", "IoT Security", "Generative AI"],
-    hobbies: ["Chess", "Badminton", "Boxing", "Yoga", "Audiophilia", "Arthouse Film", "Indian Studies"],
+    hobbies: ["Chess", "Badminton", "Boxing", "Yoga", "Meditation", "Audiophilia", "Indian Studies"],
+    interest: ["Arthouse Cinema", "Audio Antiquing", "Vedic Metaphysics", "History", "JDM Cars", "Nutrition"]
     contact: "shubhamsharma.emaills@gmail.com",
     linkedIn: "https://www.linkedin.com/in/sharma-it"
   };
