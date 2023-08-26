@@ -4,8 +4,7 @@ const shubhamSharma = {
     pronoun: 'Him', 
     status: "Senior Software Quality Engineer",
     technologies: {
-        // Yes, I have used all of the below (at one point in time)
-        programmingLanguages: ["Python", "PowerShell", "Bash", "JS" , "PHP", "HTML", "CSS" "SQL", "R"],
+        programmingLanguages: ["Python", "PowerShell", "Bash", "JS" , "PHP", "HTML", "CSS" "SQL", "C", "R"],
         operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora", "BOSS Linux"],
         testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "Gauge", "Robot Framework", "Taiko"],
         editors: ["VS Code", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets", "Notepad++", "Eclipse"],
@@ -60,26 +59,6 @@ const aboutMe = {
   contact: `📫 You can reach me through email or LinkedIn.`
 
 };
-
-console.log('Name:' + shubhamSharma.name);
-console.log('Pronoun:' + shubhamSharma.pronoun); 
-console.log('Status: ' + shubhamSharma.status);
-console.log('Programming Languages: ' + shubhamSharma.technologies.programmingLanguages);
-console.log('Operating Systems: ' + shubhamSharma.technologies.operatingSystems);
-console.log('Testing Tools: ' + shubhamSharma.technologies.testingTools);  
-console.log('Editors: ' + shubhamSharma.editors);
-console.log('Learning: ' + shubhamSharma.learning);
-console.log('Contact: ' + shubhamSharma.contact);
-console.log('LinkedIn: ' + shubhamSharma.linkedIn);
-
-console.log(aboutMe.greeting);
-console.log(aboutMe.about); 
-console.log(aboutMe.work);
-console.log(aboutMe.interests);
-console.log(aboutMe.conclusion);
-console.log(aboutMe.contact);
-
-// If you can understand the code below, you're a legend!
 
 const life_status = succeed ? party : tryAgain;
 
