@@ -29,9 +29,7 @@ const shubhamSharma = {
 
     interest: ["Arthouse Cinema", "Audio Antiquing", "Vedic Metaphysics", "History", "JDM Cars", "Nutrition"],
 
-    contact: "shubhamsharma.emaills@gmail.com",
-
-    linkedIn: "https://www.linkedin.com/in/sharma-it"
+    contact: ["shubhamsharma.emaills@gmail.com", "https://www.linkedin.com/in/sharma-it"]
 
   };
   
