@@ -3,7 +3,7 @@ const shubhamSharma = {
 
     name: 'Shubham Sharma',
 
-    pronoun(s): 'Him',
+    pronouns: 'Him',
 
     status: "Senior Software Quality Engineer",
 
