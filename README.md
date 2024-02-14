@@ -9,15 +9,15 @@ const shubhamSharma = {
 
     technologies: {
 
-        programmingLanguages: ["Python", "JS", "TS", "Rust", "C#", "PowerShell", "Bash", "HTML", "CSS", "SQL" ],
+        programmingLanguages: ["Python", "JS", "TS", "Rust", "C#", "PowerShell", "Bash", "HTML", "CSS"],
 
-        operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora", "BOSS Linux"],
+        operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora",],
 
-        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", "Selenium", "TestCafe"],
+        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", "TestCafe"],
 
         // Yes, I've used all of these IDEs/editors at one point in time
 
-        IDEs/editors: ["VS Code", "VS", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets", "Notepad++"],
+        IDEs/editors: ["VS Code", "VS", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets"],
 
         devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
 
