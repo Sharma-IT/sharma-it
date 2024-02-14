@@ -9,19 +9,21 @@ const shubhamSharma = {
 
     technologies: {
 
-        programmingLanguages: ["Python", "PowerShell", "Bash", "JS" , "PHP", "HTML", "CSS" "SQL", "C", "R"],
+        programmingLanguages: ["Python", "JS", "TS", "Rust", "C#", "PowerShell", "Bash", "HTML", "CSS", "SQL" ],
 
         operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora", "BOSS Linux"],
 
-        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "Gauge", "Robot Framework"],
+        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", "Selenium", "TestCafe"],
 
-        editors: ["VS Code", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets", "Notepad++"],
+        // Yes, I've used all of these IDEs/editors at one point in time
+
+        IDEs/editors: ["VS Code", "VS", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets", "Notepad++"],
 
         devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
 
     },
 
-    learning: ["Penetration Testing", "DevSecOps", "IoT Security", "Generative AI"],
+    learning: ["Penetration Testing", "DevSecOps", "IoT Security", "Generative AI", "Distributed Systems"],
 
     hobbies: ["Chess", "Badminton", "Boxing", "Yoga", "Meditation", "Audiophilia", "Indian Studies"],
 
