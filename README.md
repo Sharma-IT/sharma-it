@@ -15,9 +15,7 @@ const shubhamSharma = {
 
         testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", "TestCafe"],
 
-        // Yes, I've used all of these IDEs/editors at one point in time
-
-        IDEs/editors: ["VS Code", "VS", "Vim", "PyCharm", "Nano", "Sublime Text", "Atom", "Brackets"],
+        IDEs/editors: ["VS Codium", "Vim", "Copilot", "Cursor", "JetBrains AI", "Zed", "Nano", "Atom"],
 
         devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
 
