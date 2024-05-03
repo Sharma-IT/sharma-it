@@ -11,11 +11,11 @@ const shubhamSharma = {
 
         programmingLanguages: ["Python", "JS", "TS", "Rust", "C#", "PowerShell", "Bash", "HTML", "CSS"],
 
-        operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora",],
+        operatingSystems: ["Kali Linux", "Arch Linux", "QubesOS", "Whonix", "NixOS", "Dragora"],
 
-        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", "TestCafe"],
+        testingTools: ["Cypress", "Playwright", "Puppeteer", "Jest", "Cucumber", "JMeter", ,"k6", "TestCafe"],
 
-        IDEs/editors: ["VS Codium", "Vim", "Copilot", "Cursor", "JetBrains AI", "Zed", "Nano", "Atom"],
+        IDEs/editors: ["VS Codium", "Neovim", "Vim", "Copilot", "Cursor", "JetBrains AI", "Zed", "GNU Nano"],
 
         devOps: ["Git", "GitHub", "GitLab", "Buildkite", "Jenkins", "Terraform", "Docker", "Bamboo", "AWS"]
 
