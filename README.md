@@ -38,14 +38,13 @@ const aboutMe = {
   about: `👨🏽‍💻 I am a Computer Science graduate and IT professional who has dedicated the last few years to
   building a career in Software Quality and Testing. I have passions for software quality, automation,
   testing, accessibility, performance, UI/UX, CI/CD, BDD, FOSS, Agile, IaC, DevOps, LLMs, scripting and
-  cybersecurity. If you'd like to learn about the professional impact I have made in the Software Quality
-  domain, please have a look at my LinkedIn profile.`,
+  cybersecurity. If you'd like to learn more about the professional impact I have made in the Software
+  Quality domain, please have a look at my LinkedIn profile (https://www.linkedin.com/in/sharma-it).`,
   
-  work: `🤖 I'm a big proponent of using automation and/or scripting to maximise productivity and improve
+  work: `🤖 I'm a big proponent of using automation and scripting to maximise productivity and improve
   the efficiency of one's workflow. I leverage these skills to streamline repetitive tasks, both simple
   or complex. Such as to fill in payroll hours or to automate the testing of an appication used by
-  more than 1,000,000 users (I use a shell script for the former, and a Cypress-based framework for the
-  latter).`,
+  more than 1,000,000 users (I use a shell script for the former, and Playwright for the latter).`,
   
   interests: `💻 My next most significant IT-related passion besides Software Quality, lies in the field
   of cybersecurity. I majored in cybersecurity for my Computer Science degree and am an avid InfoSec and
@@ -56,8 +55,8 @@ const aboutMe = {
   
   conclusion: `🤝 I really appreciate it if you've made it this far, hopefully I've given you a proper
   and not too long of an overview of my skills and interests. Please feel free to explore my GitHub
-  repositories and profile to learn more about my projects. I welcome any anyone who also wants to 
-  contribute. Don't hesitate to reach out if you have any questions or just want to connect and exchange
+  repositories and profile to learn more about my projects. I welcome anyone who also wants to contribute.
+  Don't hesitate to reach out if you have any questions or just want to connect and exchange
   ideas. Let's continue to build solutions that streamlines and improves our workflows, giving us the
   headspace and flexibility we need in our busy lives.`,
   
