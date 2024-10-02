@@ -1,1 +1,1 @@
-![Shub's-Neofetch](https://github.com/user-attachments/assets/a9465798-a03c-48a3-be46-8479b2769c3f)
+![Shub's-Neofetch](https://github.com/user-attachments/assets/441cb5a0-144e-491e-90ad-bb618ba544cb)
