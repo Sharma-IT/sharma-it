@@ -2,7 +2,7 @@
 # note.sh
 
 cat << 'EOF'
-Over 90% of my repositories are usable utilities and applications that I built.
+Over 90% of my repositories are usable CLI utilities and GUI applications that I built.
 Yes, my commit hygiene is shit.
 Anyway, here's my neofetch.
 EOF
