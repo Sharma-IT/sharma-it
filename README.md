@@ -1,6 +1,6 @@
 <pre style="font-family: monospace;">
 ~ % cat /sharma-it/profile/note<br>
-Over 90% of my repositories are usable utilities and applications that I built.<br>
+Over 90% of my repositories are usable CLI utilities and GUI applications that I built.<br>
 Yes, my commit hygiene is shit.<br>
 Anyway, here's my neofetch:
 </pre>
