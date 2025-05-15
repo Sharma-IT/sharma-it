@@ -5,4 +5,4 @@ Yes, my commit hygiene is shit.<br>
 Anyway, here's my neofetch:
 </pre>
 
-![Shub's-Neofetch](https://github.com/user-attachments/assets/441cb5a0-144e-491e-90ad-bb618ba544cb)
+![shub's_neofetch](https://github.com/user-attachments/assets/6fce19af-a086-4814-b489-5d702355135a)
