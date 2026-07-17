@@ -7,7 +7,8 @@ I have over 1000 commits per year, if you count those from my work account: http
 
 But, fair warning: my commit hygiene could use some work, but hey, the code works.
 
-And sure, here's my neofetch:
+And sure, here's my fastfetch:
 </pre>
 
-![shub's_neofetch](https://github.com/user-attachments/assets/6fce19af-a086-4814-b489-5d702355135a)
+<img width="1392" height="904" alt="shub's fastfetch" src="https://github.com/user-attachments/assets/a5ac95d4-d213-4375-9784-b73652c1446c" />
+
