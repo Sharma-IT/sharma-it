@@ -10,5 +10,4 @@ But, fair warning: my commit hygiene could use some work, but hey, the code work
 And sure, here's my fastfetch:
 </pre>
 
-<img width="1392" height="904" alt="shub's fastfetch" src="https://github.com/user-attachments/assets/a5ac95d4-d213-4375-9784-b73652c1446c" />
-
+<img width="1624" height="1061" alt="shub's neofetch" src="https://github.com/user-attachments/assets/bb106e00-7216-4c76-88bf-c1babded9d98" />
